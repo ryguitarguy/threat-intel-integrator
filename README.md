@@ -10,5 +10,5 @@ An automated Python-based Security Operations tool that queries the **AbuseIPDB 
 ## 🚀 Quickstart Guide
 1. **Clone repository & enter directory:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ryguitarguy/threat-intel-integrator
    cd threat-intel-integrator
